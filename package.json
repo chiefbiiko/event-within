@@ -1,0 +1,26 @@
+{
+  "name": "event-within",
+  "version": "0.0.0",
+  "description": "register event handlers for a certain time frame",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiefbiiko/event-within.git"
+  },
+  "keywords": [
+    "events",
+    "time"
+  ],
+  "author": "Noah Anabiik Schwarz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chiefbiiko/event-within/issues"
+  },
+  "homepage": "https://github.com/chiefbiiko/event-within#readme",
+  "devDependencies": {
+    "tape": "^4.9.0"
+  }
+}
