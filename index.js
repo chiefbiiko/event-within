@@ -1,7 +1,7 @@
 /* TODO
- + prependWithinListener alias prependOnWithinListener
- + prependOnceWithinListener
- + removeWithinListener alias offWithinListener
+ + prependWithinListener
+ + prependWithinOnceListener
+ + removeWithinListener alias offWithin
 */
 
 function onwithin (once, event, start, end, handler) {
